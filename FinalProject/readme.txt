@@ -10,3 +10,5 @@ Escenas:
 6 - FinalScene (Interior Castle)
 
 Los audios, así como los renders de cada escena están en subcarpetas en el directorio encontrado en la dirección.
+El render final se encuentra aquí:
+https://www.youtube.com/watch?v=nWvxImphShs
