@@ -9,3 +9,4 @@ Escenas:
 5 - Forge
 6 - FinalScene (Interior Castle)
 
+Los audios, así como los renders de cada escena están en subcarpetas en el directorio encontrado en la dirección.
